@@ -1,0 +1,4 @@
+python3 --m venv venv<br>
+source venv/bin/activate<br>
+pip install fastapi google.generativeai uvicorn
+<br>#this is for linux, for window use python instead of python3
